@@ -1,8 +1,8 @@
-# 3D Portfolio Website
+# Shivang Gupta's 3D Portfolio Website
 
-This repository contains the source code for a personal 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
+This repository contains the source code for a personal 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It has been personalized for Shivang Gupta, a Full Stack Engineer.
 
-Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.app/)
+GitHub Repository: [https://github.com/shivanggupta618/Portfolio-3D](https://github.com/shivanggupta618/Portfolio-3D)
 
 ![Portfolio Preview](public/images/preview1.png)
 
